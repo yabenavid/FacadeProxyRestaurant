@@ -1,0 +1,13 @@
+C:\Users\yefer\OneDrive\Documentos\Asignaturas\6toSemestre\Lab. Ingeniería de Software II\10. Patrones estructurales\FacadeProxyRestaurante\src\main\java\co\unicauca\facade\domain\order\OrderServiceLogger.java
+C:\Users\yefer\OneDrive\Documentos\Asignaturas\6toSemestre\Lab. Ingeniería de Software II\10. Patrones estructurales\FacadeProxyRestaurante\src\main\java\co\unicauca\facade\access\Factory.java
+C:\Users\yefer\OneDrive\Documentos\Asignaturas\6toSemestre\Lab. Ingeniería de Software II\10. Patrones estructurales\FacadeProxyRestaurante\src\main\java\co\unicauca\facade\domain\order\Item.java
+C:\Users\yefer\OneDrive\Documentos\Asignaturas\6toSemestre\Lab. Ingeniería de Software II\10. Patrones estructurales\FacadeProxyRestaurante\src\main\java\co\unicauca\facade\domain\order\IOrderService.java
+C:\Users\yefer\OneDrive\Documentos\Asignaturas\6toSemestre\Lab. Ingeniería de Software II\10. Patrones estructurales\FacadeProxyRestaurante\src\main\java\co\unicauca\facade\domain\order\ProxyClient.java
+C:\Users\yefer\OneDrive\Documentos\Asignaturas\6toSemestre\Lab. Ingeniería de Software II\10. Patrones estructurales\FacadeProxyRestaurante\src\main\java\co\unicauca\facade\app\client\Main.java
+C:\Users\yefer\OneDrive\Documentos\Asignaturas\6toSemestre\Lab. Ingeniería de Software II\10. Patrones estructurales\FacadeProxyRestaurante\src\main\java\co\unicauca\facade\access\IOrderRepository.java
+C:\Users\yefer\OneDrive\Documentos\Asignaturas\6toSemestre\Lab. Ingeniería de Software II\10. Patrones estructurales\FacadeProxyRestaurante\src\main\java\co\unicauca\facade\access\OrderRepository.java
+C:\Users\yefer\OneDrive\Documentos\Asignaturas\6toSemestre\Lab. Ingeniería de Software II\10. Patrones estructurales\FacadeProxyRestaurante\src\main\java\co\unicauca\facade\domain\order\Dish.java
+C:\Users\yefer\OneDrive\Documentos\Asignaturas\6toSemestre\Lab. Ingeniería de Software II\10. Patrones estructurales\FacadeProxyRestaurante\src\main\java\co\unicauca\facade\domain\order\Order.java
+C:\Users\yefer\OneDrive\Documentos\Asignaturas\6toSemestre\Lab. Ingeniería de Software II\10. Patrones estructurales\FacadeProxyRestaurante\src\main\java\co\unicauca\facade\domain\order\State.java
+C:\Users\yefer\OneDrive\Documentos\Asignaturas\6toSemestre\Lab. Ingeniería de Software II\10. Patrones estructurales\FacadeProxyRestaurante\src\main\java\co\unicauca\facade\domain\order\Customer.java
+C:\Users\yefer\OneDrive\Documentos\Asignaturas\6toSemestre\Lab. Ingeniería de Software II\10. Patrones estructurales\FacadeProxyRestaurante\src\main\java\co\unicauca\facade\domain\order\OrderFacade.java
